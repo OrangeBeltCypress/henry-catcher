@@ -1,0 +1,22 @@
+.bucket{
+    margin-top:50vh;
+    max-width:40%;
+    max-height:35vmin;
+    position:absolute;
+}
+
+.coin{
+    position:absolute;
+    top:0;
+    max-width:20%;
+    max-height:10vmin;
+    transition: 5s ease;
+    height: 100px;
+    content: url("https://th.bing.com/th/id/R.46f53a0b82f0aab47f7bf2cf2edfcde1?rik=O5jLMRLS%2bIUCWQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2fjet_fighter%2fjet_fighter_PNG50.png&ehk=EjeV%2f7Rz67%2fOnZGYM%2fpasexjwLax7%2fBaJuvEgZLrPxQ%3d&risl=&pid=ImgRaw&r=0");
+    visibility:visible;
+}
+
+.coins{
+    width:100%;
+    height:100%;
+}
